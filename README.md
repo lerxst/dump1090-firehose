@@ -3,7 +3,7 @@ A node utility to ingest local dump1090 --net data to Amazon Kinesis Firehose
 
 ### Config
 
-Configuration needs to be mapped over from `config.default.json` to `config.json` with the appropriate values filled in.
+Configuration needs to be mapped over from `config.template.json` to `config.json` with the appropriate values filled in.
 
 ### Usage
 
