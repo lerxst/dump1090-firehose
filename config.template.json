@@ -1,0 +1,11 @@
+{
+	"host": "10.0.0.1",
+	"port": "8080",
+	"file": "data.json",
+	"frequencyMs": 5000,
+	"autoStart": true,
+	"debug": true,
+	"awsAccessKeyId": "...",
+	"awsSecretAccessKey": "...",
+	"deliveryStreamName": "..."
+}

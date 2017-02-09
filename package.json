@@ -1,0 +1,21 @@
+{
+  "name": "dump1090-firehose",
+  "version": "1.0.0",
+  "description": "Feed data from dump1090 to AWS Firehose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "adsb",
+    "dump1090"
+  ],
+  "author": "Ryan Snell",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.10.0",
+    "hashtable": "^2.0.2",
+    "object-hash": "^1.1.5",
+    "request": "^2.79.0"
+  }
+}
